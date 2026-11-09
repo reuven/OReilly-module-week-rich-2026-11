@@ -1,6 +1,6 @@
 # Notes, programs, and files
 
-This repo contains the notebook + files from my training class.
+This repo contains the notebook + files from my "module of the week" session about Rich on November 9th, 2026.
 
 Enjoy!
 
